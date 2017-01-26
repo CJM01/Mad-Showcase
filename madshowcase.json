@@ -1,0 +1,37 @@
+{ 
+	"wallpapers": 
+		[
+			{
+			    "name": "Mad 1",
+			    "author": "Mad Season",
+			    "url": "https://lh4.googleusercontent.com/jGNki5LNgMizXn3swvdr1xl_MxLnAnj15z2Xw6TPuF6XdNX1XEaq9vww9FY7U0lUFic1HmWrHG3OT3c=w1920-h997-rw",
+			    "thumbnail": "https://lh5.googleusercontent.com/rpTpBv_tRTzQm-V9_SBsDy-Yvbq1o5ggpJAlr2CY2HBzmUcw2rrg7yXyuREUYqesleQV1IWPK7JJ8xM=w1920-h997-rw",
+			    "dimensions": "3200x2560",
+			    "copyright": "Mad Season"
+			},
+			{
+			    "name": "Mad 2",
+			    "author": "Mad Season",
+			    "url": "https://lh6.googleusercontent.com/c15x4Ey7JWqqwEbFtwfVlasE6aDCKQhdjbqMstcUsMNzCfdo6JjLQItOATt0Yvmqq6wFEY472hHMB6w=w1920-h997-rw",
+			    "thumbnail": "https://lh5.googleusercontent.com/3cOlFr2INJr4KZPACsW-SoVZkKoO9O1_hqScHBoeMRsFyqXPiyAHkvwW5Nu5q1nMKT7whApcSW5RAXw=w1920-h997-rw",
+			    "dimensions": "3200x2560",
+			    "copyright": "Mad Season"
+			},
+			{
+			    "name": "Mad 3",
+			    "author": "Mad Season",
+			    "url": "https://lh5.googleusercontent.com/YPN2zm5NmIxRtrt1uRmgjR-UasziLmg7Q1fbVZQ9INQMVJFmbuOmFhMrSKyKvbM4Ujxy6ZsYKr4RkxY=w1920-h997-rw",
+			    "thumbnail": "https://lh4.googleusercontent.com/VNxALZk2cF8owlhMCMhwxuDMGehpfiWelioXt85JNd4pcxpZn35UdmF6zicx8mnPG51AH7ag0w3LxH0=w1920-h997-rw",
+			    "dimensions": "3200x2560",
+			    "copyright": "Mad Season"
+			},
+			{
+			    "name": "Mad 4",
+			    "author": "Mad Season",
+			    "url": "https://lh3.googleusercontent.com/OfepfaTrgbQdy6fwMAsAKxkZIAJbmhWUV1Hwh8K1KQzxbhVu_wS5R3wanvQ2f-kVIe3N80tM_Bv7xYo=w1920-h997-rw",
+			    "thumbnail": "https://lh4.googleusercontent.com/bYGeXWsKfszN2fKMPsn4-jaMNV2yf6MYx6fOqExwinvZ7oc8enYMZRpTZzClR45qiXciFvC7KQVOGJA=w1920-h997-rw",
+			    "dimensions": "3200x2560",
+			    "copyright": "Mad Season"
+			}
+		]
+}
